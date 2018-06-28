@@ -89,4 +89,4 @@ beverages.should.have.property('tea').with.lengthOf(3);
      
         });
       
-    });l
+    });
